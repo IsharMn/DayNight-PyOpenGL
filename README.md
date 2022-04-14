@@ -1,4 +1,4 @@
-# DayNight---PyOpenGL
+# DayNight-PyOpenGL
 Day - Night transistion: Computer Graphics Mini Project using PyOpenGL
 
 ## Working
@@ -12,9 +12,10 @@ To change the positions, sizes and colors of objects, edit the config.py file.
 
 ## Elements
 The graphics rendered consists of
-1. Sun
-2. Moon
-3. Stars
-4. Fireflies
-5. Grass
-6. House
+1. Sky
+2. Sun
+3. Moon
+4. Stars
+5. Fireflies
+6. Grass
+7. House
